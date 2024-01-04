@@ -1,0 +1,7 @@
+telegram:
+  api-url: "https://api.telegram.org/"
+  webhook-path: "https://631c-84-51-106-195.ngrok-free.app"
+  bot-name: "SpringTestWizardBot"
+  bot-token: "5260002403:AAH08F1WwU5qmfTvBd83oUQ-PrBBUn5WGro"
+server:
+  port: "8000"
